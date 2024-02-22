@@ -1,0 +1,5 @@
+1) Launch the application.
+2) Enter the text that needs to be encrypted.
+3) Press Enter.
+4) We get an encrypted text at the output.
+5) Copy the encrypted text and send it to the interlocutor. He will also have to insert the text received from you.
